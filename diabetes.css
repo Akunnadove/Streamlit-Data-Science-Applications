@@ -1,0 +1,17 @@
+  /*
+  ----------------------
+        BUTTONS
+  ----------------------
+  */
+  .stButton > button {
+    background-color: #ffca47;
+    color: #000;
+    border-style:none;
+    z-index: 4;
+    /*margin-left: 45%;*/
+  }
+  .stButton > button:hover {
+    background-color: #722F37;
+    color: #fff;
+  }
+  
