@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 from Omdena_Rwanda_Water_model import predict
 
-with open("C:/Users/Akunna Anyamkpa/Omdena_Rwanda_Water.css") as f:
+with open("https://github.com/Akunnadove/Streamlit-Data-Science-Applications/blob/main/Omdena%20Rwanda%20Water/Omdena_Rwanda_Water.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 @st.experimental_memo
